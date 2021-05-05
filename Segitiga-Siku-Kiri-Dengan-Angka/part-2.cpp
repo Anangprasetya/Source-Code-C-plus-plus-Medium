@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-	cout << "\n\n\n";
 	int n;
 	int picu = 0;
 	int panjang = 0, panjang2 = 0;
@@ -39,7 +38,6 @@ int main(){
 		}
 		cout << endl;
 	}
-	cout << "\n\n\n";
 	return 0;
 }
 
