@@ -17,7 +17,6 @@ int main(){
 	pertama.panjang = 4.0;
 	pertama.lebar = 5.0;
 	pertama.tinggi = 8.0;
-	cout << "\n\n\n";
 	volume = pertama.panjang * pertama.lebar * pertama.tinggi;
 	cout << "Volume Kotak Pertama adalah : " << volume << endl;
 
@@ -29,9 +28,6 @@ int main(){
 
 	volume = kedua.panjang * kedua.lebar * kedua.tinggi;
 	cout << "Volume Kotak Kedua adalah : " << volume << endl;
-
-	cout << "\n\n\n";
-
 	return 0;
 }
 
