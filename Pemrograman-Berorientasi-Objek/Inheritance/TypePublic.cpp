@@ -17,6 +17,8 @@ class SegiEmpat {
 
 };
 
+// Hak akses Public di class SegiEmpat
+// Dianggap Public di class PersegiPanjang
 class PersegiPanjang : public SegiEmpat {
 	public :
 		int luas(){
